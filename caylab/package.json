@@ -1,0 +1,19 @@
+{
+  "name": "caylab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "watman",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "faker": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
